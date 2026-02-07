@@ -16,3 +16,6 @@ module/otp_secrets.db
 # IDE
 .vscode/
 .idea/
+
+# Claude Code
+.claude/
