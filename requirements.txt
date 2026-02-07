@@ -1,0 +1,15 @@
+altgraph==0.17.5
+colorama==0.4.6
+packaging==26.0
+pefile==2024.8.26
+pillow==12.1.0
+pyinstaller==6.18.0
+pyinstaller-hooks-contrib==2026.0
+pyotp==2.9.0
+PyQt6==6.10.2
+PyQt6-Qt6==6.10.2
+PyQt6_sip==13.11.0
+pywin32-ctypes==0.2.3
+pyzbar==0.1.9
+qrcode==8.2
+setuptools==81.0.0
